@@ -32,6 +32,7 @@ function App() {
         <div>login</div>
         <p>hello world</p>
         <div>dev</div>
+        <div>isItMerged?</div>
     </>
   )
 }
